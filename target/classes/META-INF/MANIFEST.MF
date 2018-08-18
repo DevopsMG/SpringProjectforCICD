@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ebstack
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mahesh
+Implementation-Vendor-Id: com.automation
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ebstack
+Created-By: Maven Integration for Eclipse
+
